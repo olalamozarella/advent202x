@@ -66,6 +66,7 @@ def test():
     assert replace_nop_jmp(commands) == 8
     print("Test 2 passed!")
 
+
 # ---------------------------------------- MAIN ---------------------------------------- #
 test()
 
